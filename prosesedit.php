@@ -1,6 +1,6 @@
 <?php 
 // koneksi database
-include 'koneksi.php';
+include 'connection.php';
  
 // menangkap data yang di kirim dari form
 $id = $_POST['id'];
